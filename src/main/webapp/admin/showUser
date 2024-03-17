@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>User Info</title>
+</head>
+<body>
+<h2>Please find the user info:</h2><br>
+${user}
+</body>
+</html>
